@@ -11,5 +11,3 @@ apache/flink
 apache/kafka
 apache/rocketmq
 elasticsearch
-kibana
-logstash
