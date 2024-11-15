@@ -6,11 +6,10 @@ mysql:8.0.39
 nginx
 redis
 elasticsearch
-tomcat
 zookeeper
 kibana
 logstash
-flink
+apache/flink
 apache/kafka
 apache/rocketmq
 nacos/nacos-server
