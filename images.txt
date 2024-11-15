@@ -11,3 +11,4 @@ apache/flink
 apache/kafka
 apache/rocketmq
 zookeeper
+elasticsearch
