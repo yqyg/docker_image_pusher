@@ -10,4 +10,4 @@ bladex/sentinel-dashboard
 apache/flink
 apache/kafka
 apache/rocketmq
-elasticsearch
+zookeeper
