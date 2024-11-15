@@ -7,3 +7,7 @@ nginx
 redis
 nacos/nacos-server
 bladex/sentinel-dashboard
+elasticsearch
+zookeeper
+kibana
+logstash
