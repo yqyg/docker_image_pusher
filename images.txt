@@ -2,3 +2,6 @@ alpine
 keynetworks/ztncui
 jonnyan404/zerotier-moon
 vanjoge/rtvsdevice
+mysql:8.0.39
+nginx
+redis
